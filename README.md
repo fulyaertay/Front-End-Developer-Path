@@ -1,7 +1,7 @@
 ## Front End Developer Path
 
   ## Overview
-  This repository includes all my projects with the help of [Scrimba](https://scrimba.com/learn/frontend/)'s Front End Developer Career Path. 
+  This repository includes all my projects during the course of [Scrimba](https://scrimba.com/learn/frontend/)'s Front End Developer Career Path. 
   You can see the each module clicking below.
   
 - [1-basic-projects-HTML-CSS](https://github.com/fulyaertay/basic-projects-html-css)
