@@ -1,5 +1,4 @@
 ## Front End Developer Path
-
   ## Overview
   This repository includes all my projects during the course of [Scrimba](https://scrimba.com/learn/frontend/)'s Front End Developer Career Path. 
   You can see the each module clicking below.
